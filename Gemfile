@@ -19,6 +19,8 @@ gem 'draper'
 
 gem 'rb-readline'
 
+gem 'rack-cors', :require => 'rack/cors'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
